@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_MK" t="Include">
+          <e p="_MKGlow" t="Include">
+            <e p="_Demo" t="Include">
+              <e p="Code" t="Include">
+                <e p="MK_DemoControl.cs" t="Include" />
+                <e p="MK_RotateObject.cs" t="Include" />
+              </e>
+            </e>
+            <e p="_Internal" t="Include">
+              <e p="Editor" t="Include">
+                <e p="MKGlowEditor.cs" t="Include" />
+              </e>
+              <e p="MKGlow.cs" t="Include" />
+            </e>
+            <e p="_Shader" t="Include">
+              <e p="_MKBase" t="Include">
+                <e p="Cutout" t="Include">
+                  <e p="MK_Cutout-Diffuse.shader" t="Include" />
+                  <e p="MK_Cutout-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Cutout-DiffuseBumpSpec.shader" t="Include" />
+                  <e p="MK_Cutout-Glossy.shader" t="Include" />
+                  <e p="MK_Cutout-SoftEdgeUnlit.shader" t="Include" />
+                </e>
+                <e p="Emission" t="Include">
+                  <e p="MK_Emission-Diffuse.shader" t="Include" />
+                </e>
+                <e p="Illumin" t="Include">
+                  <e p="MK_Illumin-Diffuse.shader" t="Include" />
+                  <e p="MK_Illumin-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Illumin-DiffuseBumpSpec.shader" t="Include" />
+                  <e p="MK_Illumin-Glossy.shader" t="Include" />
+                  <e p="MK_Illumin-Parallax.shader" t="Include" />
+                  <e p="MK_Illumin-ParallaxSpec.shader" t="Include" />
+                </e>
+                <e p="Lightmapped" t="Include">
+                  <e p="MK_Lightmap-Diffuse.shader" t="Include" />
+                  <e p="MK_Lightmap-DiffuseBumped.shader" t="Include" />
+                </e>
+                <e p="Mobile" t="Include">
+                  <e p="MK_Mobile-Diffuse.shader" t="Include" />
+                  <e p="MK_Mobile-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Mobile-DiffuseBumpSpec-1DirectionalLight.shader" t="Include" />
+                  <e p="MK_Mobile-DiffuseBumpSpec.shader" t="Include" />
+                </e>
+                <e p="Normal" t="Include">
+                  <e p="MK_Normal-Diffuse.shader" t="Include" />
+                  <e p="MK_Normal-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Normal-DiffuseBumpRim.shader" t="Include" />
+                  <e p="MK_Normal-DiffuseBumpSpec.shader" t="Include" />
+                  <e p="MK_Normal-DiffuseDetail.shader" t="Include" />
+                  <e p="MK_Normal-DiffuseRim.shader" t="Include" />
+                  <e p="MK_Normal-Glossy.shader" t="Include" />
+                  <e p="MK_Normal-Parallax.shader" t="Include" />
+                  <e p="MK_Normal-ParallaxSpec.shader" t="Include" />
+                </e>
+                <e p="Particles" t="Include">
+                  <e p="MK_Particles-Additive.shader" t="Include" />
+                  <e p="MK_Particles-AdditiveBlend.shader" t="Include" />
+                  <e p="MK_Particles-AdditiveMultiply.shader" t="Include" />
+                  <e p="MK_Particles-AdditiveSoft.shader" t="Include" />
+                  <e p="MK_Particles-Blend.shader" t="Include" />
+                  <e p="MK_Particles-MulitplyDouble.shader" t="Include" />
+                  <e p="MK_Particles-Multiply.shader" t="Include" />
+                  <e p="MK_Particles-PremultiplyBlend.shader" t="Include" />
+                </e>
+                <e p="Reflective" t="Include">
+                  <e p="MK_Reflective-Diffuse.shader" t="Include" />
+                  <e p="MK_Reflective-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Reflective-DiffuseBumpedNoLight.shader" t="Include" />
+                  <e p="MK_Reflective-DiffuseBumpSpec.shader" t="Include" />
+                  <e p="MK_Reflective-Glossy.shader" t="Include" />
+                  <e p="MK_Reflective-Parallax.shader" t="Include" />
+                  <e p="MK_Reflective-ParallaxSpec.shader" t="Include" />
+                </e>
+                <e p="Sprites" t="Include">
+                  <e p="MK_Sprite-Default.shader" t="Include" />
+                  <e p="MK_Sprite-Diffuse.shader" t="Include" />
+                </e>
+                <e p="Toon" t="Include">
+                  <e p="MK_Toon-Basic.shader" t="Include" />
+                  <e p="MK_Toon-BasicOutline.shader" t="Include" />
+                </e>
+                <e p="Transparent" t="Include">
+                  <e p="MK_Transparent-Diffuse.shader" t="Include" />
+                  <e p="MK_Transparent-DiffuseBumped.shader" t="Include" />
+                  <e p="MK_Transparent-DiffuseBumpRim.shader" t="Include" />
+                  <e p="MK_Transparent-DiffuseBumpSpec.shader" t="Include" />
+                  <e p="MK_Transparent-DiffuseRim.shader" t="Include" />
+                  <e p="MK_Transparent-Glossy.shader" t="Include" />
+                  <e p="MK_Transparent-Parallax.shader" t="Include" />
+                  <e p="MK_Transparent-ParallaxSpec.shader" t="Include" />
+                </e>
+                <e p="Unlit" t="Include">
+                  <e p="MK_Unlit-Normal.shader" t="Include" />
+                  <e p="MK_Unlit-Transparent.shader" t="Include" />
+                  <e p="MK_Unlit-TransparentCutout.shader" t="Include" />
+                </e>
+              </e>
+              <e p="_MKGlowEffect" t="Include">
+                <e p="MKGlowBlur.shader" t="Include" />
+                <e p="MKGlowBlurVHP.shader" t="Include" />
+                <e p="MKGlowCompose.shader" t="Include" />
+                <e p="MKGlowRender.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BallMove.cs" t="Include" />
+          <e p="BottomWall.cs" t="Include" />
+          <e p="HardBlock.cs" t="Include" />
+          <e p="NormalBlock.cs" t="Include" />
+          <e p="PenetrateBlock.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Break_Out.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_Break_Out.-1377499202.00" t="ExcludeRecursive" />
+  </component>
+</project>
