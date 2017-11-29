@@ -13,7 +13,6 @@ public class UIManager : MonoBehaviour {
 	{
 		this.ScoreText = GameObject.Find("ScoreText").GetComponent<Text>();
 		this.LifeText = GameObject.Find("LifeText").GetComponent<Text>();
-		
 	}
 
 	public void UpdateScore(int score)

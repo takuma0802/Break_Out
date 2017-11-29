@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UniRx;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour {
 
@@ -60,5 +61,6 @@ public class GameController : MonoBehaviour {
 	private void GameClear()
 	{
 		Debug.Log("ゲームクリア!!");
+		SceneManager.LoadScene("Title");
 	}
 }

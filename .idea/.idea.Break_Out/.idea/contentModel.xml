@@ -407,6 +407,7 @@
           <e p="BallMove.cs" t="Include" />
           <e p="BlockProvider.cs" t="Include" />
           <e p="BottomWall.cs" t="Include" />
+          <e p="ButtonController.cs" t="Include" />
           <e p="GameController.cs" t="Include" />
           <e p="HardBlock.cs" t="Include" />
           <e p="NormalBlock.cs" t="Include" />

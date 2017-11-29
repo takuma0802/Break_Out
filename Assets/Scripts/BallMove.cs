@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallMove : MonoBehaviour {
 
-	float speed = 15.0f;
+	float speed = 25.0f;
 
 	void  Update (){
 		if (Input.GetButtonUp("Jump") && GetComponent<Rigidbody>().velocity == new Vector3(0, 0, 0)){
@@ -14,6 +14,6 @@ public class BallMove : MonoBehaviour {
 	
 	void OnCollisionEnter (){
 		Rigidbody rigidbody = GetComponent<Rigidbody> ();
-		rigidbody.velocity = rigidbody.velocity.normalized * 15;
+		rigidbody.velocity = rigidbody.velocity.normalized * 25;
 	}
 }
