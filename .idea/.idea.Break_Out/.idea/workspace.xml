@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e17dfa59-7e5e-4da0-881c-c2655d8df030" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/MilkyWaySkybox.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Texture/MilkyWayPanorama8K.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Resources/StartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Resources/TitleImage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libmonobdwgc-2.0.dylib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MacOS/Break_Out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Ageia.tif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/Mono.Posix.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/Mono.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/System.Configuration.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/System.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/System.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/System.Xml.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/System.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/mscorlib.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Resources/unity_builtin_extra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/globalgamemanagers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/globalgamemanagers.assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level0.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level1.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/level2.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/resources.assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/resources.assets.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/sharedassets0.assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/sharedassets0.assets.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/sharedassets1.assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/sharedassets1.assets.resS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/sharedassets2.assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/MainMenu.nib/keyedobjects.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Mono.tif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/UnityPlayerIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/unity default resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Material.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Material/MilkyWay.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Material/MilkyWay.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/MilkyWaySkybox.pdf.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Scenes.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Scenes/Default.unity.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Texture.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Texture/MilkyWayPanorama8K.jpg.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Resources/StartButton.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Resources/TitleImage.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scenes/Title.unity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/ButtonController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/ButtonController.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/1.0/machine.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/2.0/machine.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/2.0/settings.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/2.0/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/browscap.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Mono/etc/mono/mconfig/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/Managed/UnityEngine.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/Data/boot.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/DefaultPreferences.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/KeyConfig.nib/classes.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/KeyConfig.nib/info.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/MainMenu.nib/classes.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/MainMenu.nib/info.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/ScreenSelector.nib/classes.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/ScreenSelector.nib/designable.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Break_Out.app/Contents/Resources/ScreenSelector.nib/info.nib" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Resources/GameOver.png" afterPath="$PROJECT_DIR$/Assets/Resources/GameOverImage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Resources/GameOver.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/GameOverImage.png.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Scenes/Result.unity" afterPath="$PROJECT_DIR$/Assets/ImportAssets/MilkyWay/Scenes/Default.unity" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Scenes/Result.unity.meta" afterPath="$PROJECT_DIR$/Assets/Scenes/Title.unity.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Break_Out/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Break_Out/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Break_Out/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Break_Out/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/BallMove.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/BallMove.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <marker date="1511692671645" expanded="false" signature="6:78" ph="..." />
+                <marker date="1511692671645" expanded="true" signature="116:308" ph="{...}" />
+                <marker date="1511692671645" expanded="true" signature="170:306" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BallMove.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallMove.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <marker date="1511951025505" expanded="false" signature="6:78" ph="..." />
+                <marker date="1511951025505" expanded="true" signature="118:521" ph="{...}" />
+                <marker date="1511951025505" expanded="true" signature="160:376" ph="{...}" />
+                <marker date="1511951025505" expanded="true" signature="256:373" ph="{...}" />
+                <marker date="1511951025505" expanded="true" signature="404:519" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UIManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+              <folding>
+                <marker date="1511947116239" expanded="true" signature="6:100" ph="..." />
+                <marker date="1511947116239" expanded="true" signature="141:588" ph="{...}" />
+                <marker date="1511947116239" expanded="true" signature="268:412" ph="{...}" />
+                <marker date="1511947116239" expanded="true" signature="449:510" ph="{...}" />
+                <marker date="1511947116239" expanded="true" signature="546:586" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+              <folding>
+                <marker date="1511950681869" expanded="true" signature="6:145" ph="..." />
+                <marker date="1511950681869" expanded="true" signature="191:1579" ph="{...}" />
+                <marker date="1511950681869" expanded="true" signature="433:673" ph="{...}" />
+                <marker date="1511950681869" expanded="true" signature="706:1473" ph="{...}" />
+                <marker date="1511950681869" expanded="true" signature="918:1336" ph="{...}" />
+                <marker date="1511950681869" expanded="true" signature="991:1332" ph="{...}" />
+                <marker date="1511950681869" expanded="true" signature="1511:1577" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BottomWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ReactiveProperty.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NormalBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PenetrateBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HardBlock.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlockInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlockProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NormalBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HardBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PenetrateBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BottomWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ReactiveProperty.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallMove.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="792" />
+    <option name="y" value="22" />
+    <option name="width" value="644" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Break_Out (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17dfa59-7e5e-4da0-881c-c2655d8df030" name="Default" comment="" />
+      <created>1511692624495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511692624495</updated>
+      <workItem from="1511692638352" duration="15460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15460000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="792" y="22" width="644" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NormalBlock1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BlockInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NormalBlock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <marker date="1511943352063" expanded="false" signature="6:113" ph="..." />
+            <marker date="1511943352063" expanded="true" signature="156:756" ph="{...}" />
+            <marker date="1511943352063" expanded="true" signature="372:754" ph="{...}" />
+            <marker date="1511943352063" expanded="true" signature="490:530" ph="{...}" />
+            <marker date="1511943352063" expanded="true" signature="629:745" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HardBlock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <marker date="1511943403338" expanded="false" signature="6:113" ph="..." />
+            <marker date="1511943403338" expanded="true" signature="154:753" ph="{...}" />
+            <marker date="1511943403338" expanded="true" signature="369:751" ph="{...}" />
+            <marker date="1511943403338" expanded="true" signature="487:527" ph="{...}" />
+            <marker date="1511943403338" expanded="true" signature="626:742" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PenetrateBlock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <marker date="1511943419082" expanded="false" signature="6:113" ph="..." />
+            <marker date="1511943419082" expanded="true" signature="159:759" ph="{...}" />
+            <marker date="1511943419082" expanded="true" signature="375:757" ph="{...}" />
+            <marker date="1511943419082" expanded="true" signature="493:533" ph="{...}" />
+            <marker date="1511943419082" expanded="true" signature="632:748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BlockProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1511940888528" expanded="false" signature="6:78" ph="..." />
+            <marker date="1511940888528" expanded="true" signature="122:515" ph="{...}" />
+            <marker date="1511940888528" expanded="true" signature="348:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ReactiveProperty.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2745">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1511945981116" expanded="false" signature="6:84" ph="..." />
+            <marker date="1511945981116" expanded="true" signature="108:18030" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="177:245" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="319:365" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="371:440" ph="/// Lightweight property broker. ... " />
+            <marker date="1511945981116" expanded="true" signature="557:7568" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1279:1391" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1305:1381" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1415:2345" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1441:1499" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1515:2335" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1578:1973" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="1837:1927" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2039:2321" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2213:2303" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2375:2490" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2401:2480" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2556:2718" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2579:2708" ph="/* default constructor 'can' publish value on subscribe. ... */" />
+            <marker date="1511945981116" expanded="true" signature="2767:2870" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2926:3248" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="2949:3104" ph="/* initialized from source's ReactiveProperty `doesn't` publish value on subscribe. ... */" />
+            <marker date="1511945981116" expanded="true" signature="3320:3553" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="3603:3655" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="3708:3919" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="3843:3909" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="3980:5077" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4029:4147" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4176:4285" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4321:4596" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4352:4536" ph="/* Interlocked.CompareExchange is bit slower, guarantee threasafety is overkill. ... */" />
+            <marker date="1511945981116" expanded="true" signature="4655:4941" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4775:4890" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="4958:5067" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5108:5194" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5250:5970" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5289:5960" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5413:5528" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5594:5946" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5692:5777" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="5805:5928" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6013:6099" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6157:6203" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6258:7562" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6421:6487" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6528:6594" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6644:7068" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6738:7054" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="6887:6973" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="7107:7552" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="7201:7538" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="7438:7520" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="7574:7643" ph="/// Lightweight property broker. ... " />
+            <marker date="1511945981116" expanded="true" signature="7757:15170" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8361:8455" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8387:8445" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8485:8600" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8511:8590" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8665:8777" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8691:8767" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="8841:8959" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="9050:9230" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="9310:9519" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="9626:9897" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="9958:11483" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10007:10125" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10154:10263" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10299:10690" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10361:10530" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10551:10676" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10727:11002" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="10758:10942" ph="/* Interlocked.CompareExchange is bit slower, guarantee threasafety is overkill. ... */" />
+            <marker date="1511945981116" expanded="true" signature="11061:11347" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11181:11296" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11364:11473" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11514:11600" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11656:12377" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11695:12367" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="11819:11934" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12001:12353" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12099:12184" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12212:12335" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12420:12506" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12564:12610" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12673:15164" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12860:12926" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="12967:13799" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13067:13457" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13163:13439" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13320:13417" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13478:13785" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13682:13767" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13849:14273" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="13943:14259" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14092:14178" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14312:15154" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14406:15140" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14619:14701" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14828:15122" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="14878:14975" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15007:15100" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15176:15263" ph="/// Extension methods of ReactiveProperty&amp;lt;T&amp;gt; ... " />
+            <marker date="1511945981116" expanded="true" signature="15314:18028" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15412:15484" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15593:15679" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15788:15868" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="15878:15992" ph="/// Create ReadOnlyReactiveProperty with distinctUntilChanged: false. ... " />
+            <marker date="1511945981116" expanded="true" signature="16110:16219" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="16344:16438" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="16448:16562" ph="/// Create ReadOnlyReactiveProperty with distinctUntilChanged: false. ... " />
+            <marker date="1511945981116" expanded="true" signature="16696:16819" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="16929:17011" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17062:17156" ph="/// Lastest values of each sequence are all true. ... " />
+            <marker date="1511945981116" expanded="true" signature="17271:17536" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17337:17524" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17392:17481" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17547:17642" ph="/// Lastest values of each sequence are all false. ... " />
+            <marker date="1511945981116" expanded="true" signature="17758:18022" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17824:18010" ph="{...}" />
+            <marker date="1511945981116" expanded="true" signature="17879:17967" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+          <folding>
+            <marker date="1511947116239" expanded="true" signature="6:100" ph="..." />
+            <marker date="1511947116239" expanded="true" signature="141:588" ph="{...}" />
+            <marker date="1511947116239" expanded="true" signature="268:412" ph="{...}" />
+            <marker date="1511947116239" expanded="true" signature="449:510" ph="{...}" />
+            <marker date="1511947116239" expanded="true" signature="546:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BottomWall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <marker date="1511945055293" expanded="true" signature="6:113" ph="..." />
+            <marker date="1511945055293" expanded="true" signature="154:656" ph="{...}" />
+            <marker date="1511945055293" expanded="true" signature="379:654" ph="{...}" />
+            <marker date="1511945055293" expanded="true" signature="454:560" ph="{...}" />
+            <marker date="1511945055293" expanded="true" signature="604:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <marker date="1511950417822" expanded="true" signature="6:113" ph="..." />
+            <marker date="1511950417822" expanded="true" signature="161:230" ph="{...}" />
+            <marker date="1511950417822" expanded="true" signature="188:228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+          <folding>
+            <marker date="1511950681869" expanded="true" signature="6:145" ph="..." />
+            <marker date="1511950681869" expanded="true" signature="191:1579" ph="{...}" />
+            <marker date="1511950681869" expanded="true" signature="433:673" ph="{...}" />
+            <marker date="1511950681869" expanded="true" signature="706:1473" ph="{...}" />
+            <marker date="1511950681869" expanded="true" signature="918:1336" ph="{...}" />
+            <marker date="1511950681869" expanded="true" signature="991:1332" ph="{...}" />
+            <marker date="1511950681869" expanded="true" signature="1511:1577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1511692671645" expanded="false" signature="6:78" ph="..." />
+            <marker date="1511692671645" expanded="true" signature="116:308" ph="{...}" />
+            <marker date="1511692671645" expanded="true" signature="170:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1511951025505" expanded="false" signature="6:78" ph="..." />
+            <marker date="1511951025505" expanded="true" signature="118:521" ph="{...}" />
+            <marker date="1511951025505" expanded="true" signature="160:376" ph="{...}" />
+            <marker date="1511951025505" expanded="true" signature="256:373" ph="{...}" />
+            <marker date="1511951025505" expanded="true" signature="404:519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
